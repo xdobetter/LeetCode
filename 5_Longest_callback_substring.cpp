@@ -1,6 +1,8 @@
 #include<iostream>
 #include<string>
 #include<algorithm>
+#include<memory>
+#include<cstring>
 using namespace std;
 class Solution {
 public:
